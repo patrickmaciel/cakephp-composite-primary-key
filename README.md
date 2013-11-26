@@ -1,6 +1,6 @@
-# Composite Primary Keys in CakePHP 2.x
+## Composite Primary Keys in CakePHP 2.x
 
-## Note
+### Note
 
 This is not a good pratice for database modeling, so, the recommended is use just a simple primary key:
 
@@ -12,7 +12,7 @@ This is not a good pratice for database modeling, so, the recommended is use jus
     id serial primary key
 ```
 
-## Instructions
+### Instructions
 
 - Download (not clone) this repostory with zip (link at right).
 - Extract the zip file in a temp folder (out of your CakePHP project)
@@ -27,7 +27,7 @@ This is not a good pratice for database modeling, so, the recommended is use jus
 
 **Done!**
 
-## Model id
+### Model id
 
 Now, if you do `$this->YOUR_MODEL->id`, you get an array like that:
 
@@ -39,6 +39,6 @@ Now, if you do `$this->YOUR_MODEL->id`, you get an array like that:
     )
 ```
 
-## You wanna help? Send a pull request!
+### You wanna help? Send a pull request!
 
 *Sorry for my english, and of course, THANKS SO MUCH!*
