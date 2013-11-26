@@ -1,5 +1,9 @@
 ## Composite Primary Keys in CakePHP 2.x
 
+### You need first
+
+- CakePHP 2.x project
+
 ### Note
 
 This is not a good pratice for database modeling, so, the recommended is use just a simple primary key:
