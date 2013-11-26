@@ -42,5 +42,3 @@ Now, if you do `$this->YOUR_MODEL->id`, you get an array like that:
 ## You wanna help? Send a pull request!
 
 *Sorry for my english, and of course, THANKS SO MUCH!*
-
-
